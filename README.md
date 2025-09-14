@@ -22,3 +22,10 @@ A Streamlit web application for real-time object detection powered by YOLOv8. Us
 > ⚡ Default model in this project: **`yolov8n.pt`** (fastest & most efficient for general use).  
 Performance depends on hardware, model size, and video resolution.
 
+## 👤 Author
+
+Laiba Ahmed
+
+🔗 Connect on LinkedIn
+
+📅 Published Date: September 2025
