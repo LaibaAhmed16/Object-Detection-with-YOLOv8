@@ -1,0 +1,14 @@
+# 🛠️ Install Required Packages
+
+If you prefer to install packages individually using pip, run the following commands in your activated environment:
+
+```bash
+pip install streamlit          # Web app interface for the application
+pip install opencv-python      # For video processing and frame handling
+pip install ultralytics        # YOLOv8 object detection model
+pip install torch              # PyTorch core library (required by YOLOv8)
+pip install torchvision        # PyTorch computer vision library
+pip install torchaudio         # PyTorch audio library (optional, included with YOLO)
+pip install numpy              # Numerical computing library
+pip install pandas             # Data handling and manipulation
+pip install matplotlib         # Plotting and visualization library
