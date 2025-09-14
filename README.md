@@ -1,6 +1,6 @@
 # Object-Detection-with-YOLOv8
 A Streamlit web application for real-time object detection powered by YOLOv8. Users can upload videos or use their webcam to detect objects instantly. The app annotates frames with bounding boxes, allows play and stop controls, and saves results as downloadable videos all in a modern, user-friendly interface.
-
+<img width="839" height="508" alt="Image" src="https://github.com/user-attachments/assets/a7fcbaf6-6044-4e7d-a10d-9455bfd2e554" />
 ## ✨ Features
 
 - 🎥 **Video Upload & Webcam Support** – Upload video files (`.mp4`, `.avi`, `.mov`) or use your webcam for live detection.  
