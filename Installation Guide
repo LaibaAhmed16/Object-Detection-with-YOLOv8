@@ -1,0 +1,32 @@
+# 🛠️ Installation Guide
+
+Follow these steps to set up and run the **YOLOv8 Object Detection App**.
+
+---
+
+### 1. Clone the Repository
+```bash
+
+### 2. Create & Activate a Conda Environment (Recommended)
+conda create -n yolov8-app python=3.9 -y
+conda activate yolov8-app
+
+
+### 3. Install Required Packages
+
+You can either use requirements.txt or install packages individually.
+Option 1: Using requirements.txt
+pip install -r requirements.txt
+
+Option 2: Install Packages Individually
+pip install streamlit          # Web app interface
+pip install opencv-python      # Video processing
+pip install ultralytics        # YOLOv8 model
+pip install torch torchvision torchaudio  # PyTorch libraries
+pip install numpy pandas matplotlib      # Supporting libraries
+
+4. Optional: Enable GPU Support
+If you have an NVIDIA GPU, install PyTorch with CUDA for faster inference:
+
+5. Run the App
+streamlit run app.py
