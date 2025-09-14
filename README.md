@@ -27,5 +27,4 @@ Performance depends on hardware, model size, and video resolution.
 Laiba Ahmed
 
 🔗 Connect on LinkedIn
-
 📅 Published Date: September 2025
